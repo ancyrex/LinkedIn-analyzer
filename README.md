@@ -1,2 +1,3 @@
 # LinkedIn-analyzer
-test repo
+
+Program to score a LinkedIn profile using the user's LinkedIn URL
